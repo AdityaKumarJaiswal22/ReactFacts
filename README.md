@@ -16,4 +16,6 @@ You may also see any lint errors in the console.
 
 ### This project was developed according to - https://www.youtube.com/watch?v=bMknfKXIFA8
 
+## Following is the output
+
 ![Output](https://github.com/AdityaKumarJaiswal22/ReactFacts/blob/main/Images/display1.png)
